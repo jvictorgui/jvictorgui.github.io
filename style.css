@@ -1,10 +1,12 @@
 
 body{
-    background-color:#f7ffdd;
+    background-image: linear-gradient(#ee4540, #20142c);
 }
 
 img{
     width: 150px;
+    border-radius: 29%;
+    
 }
 
 #canalfav{
