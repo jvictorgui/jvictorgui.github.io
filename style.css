@@ -11,3 +11,8 @@ img{
     font-style: bold;
     
 }
+#asideindex{
+    display: inline-block;
+    float: right;
+padding-right: 35px;
+}
